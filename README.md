@@ -1,80 +1,60 @@
-# Jekyll Instagram Portfolio Theme
+<a href="https://jekyll-themes.com">
+<img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
+</a>
 
-Clean, minimalistic and responsive portfolio theme for Jekyll powered by Bootstrap 4.
-For the portfolio section is used Instagram widget, but you can easily update it with another content source.
+# Orbit
+> This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/). 
+> Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
 
-## Live Demo
+I have made this into a Jekyll Theme. Checkout the live demo [here](https://webjeda.com/online-cv/).
 
-https://portfolio-central.github.io/jekyll-instagram-portfolio-theme/
-![Jekyll Instagram Portfolio Theme](./screenshot.png "Jekyll Instagram Portfolio Theme")
-
-## Showcase
-
-The best usage examples:
-
-- [Pavel Guzenko](http://guzenko.org.ua)
-- [Victor Mikitenko](https://mikitenko-org-ua.github.io/site/)
-- [Anthony Fuentes](http://anthonyfuentes.us/)
-- [Serhii Grytsyshyn](https://grserhii.github.io/)
-
-To add your example: fork the repo, add new line to the list above and create a pull request.
-
-## Featured on
-
-- [Template.net](https://www.template.net/cms-templates/jekyll/jekyll-themes-templates/)
-- [JekyllThemes.org](http://jekyllthemes.org/themes/instagram-portfolio-theme/)
-
-## Powered by
-
-- [Jekyll](https://jekyllrb.com/)
-- [Bootstrap 4](http://v4-alpha.getbootstrap.com/)
-- [jQuery](https://jquery.com/)
-- [SnapWidget](https://snapwidget.com)
-- [Google Fonts: Lobster](https://fonts.google.com/specimen/Lobster)
-- [Font Awesome](http://fontawesome.io/)
+<table>
+  <tr>
+    <th>Desktop</th>
+    <th>Mobile</th>
+  </tr>
+  <tr>
+    <td>
+        <img src="https://webjeda.com/online-cv/assets/images/desktop.png?raw=true" width="600"/>
+    </td>
+    <td>
+        <img src="https://webjeda.com/online-cv/assets/images/mobile.png?raw=true" width="250"/>
+    </td>
+  </tr>
+</table>
 
 ## Installation
-Install Jekyll:
 
-```
-gem install jekyll bundler
-```
+* [Fork](https://github.com/sharu725/online-cv/fork) the repository
+* Delete the `gh-pages` branch
+* Re-create the `gh-pages` branch
+* Go to settings and set Github Pages source as master.
+* Your new site should be ready at `https://username.github.io/online-cv/`
 
-Install bundle dependiencies:
+Change all the details from one place: ``_data/data.yml``
 
-```
-bundle install
-```
+Watch my [video](https://www.youtube.com/embed/T2nx6tj-ZH4) on installation.
 
-When finished, run the dev server:
+## Skins
 
-```
-bundle exec jekyll serve
-```
+There are 6 color schemes available:
 
-or just:
+| Blue | Turquoise | Green |
+|---------|---------|---------|
+| <img src="https://webjeda.com/online-cv/assets/images/blue.jpg" width="300"/> | <img src="https://webjeda.com/online-cv/assets/images/turquoise.jpg" width="300"/> | <img src="https://webjeda.com/online-cv/assets/images/green.jpg" width="300"/> |
 
-```
-jekyll serve
+| Berry | Orange | Ceramic |
+|---------|---------|---------|
+| <img src="https://webjeda.com/online-cv/assets/images/berry.jpg" width="300"/> | <img src="https://webjeda.com/online-cv/assets/images/orange.jpg" width="300"/> | <img src="https://webjeda.com/online-cv/assets/images/ceramic.jpg" width="300"/> |
 
-```
-To stop the server, use `CTRL+C`.
+## Credits
 
-## Building front-end assets: styles and scripts
+Thanks to [Nelson Estevão](https://github.com/nelsonmestevao) for all the [contributions](https://github.com/sharu725/online-cv/commits?author=nelsonmestevao).
 
-Install module dependencies:
+Thanks to [t-h-e(sfrost)](https://github.com/t-h-e) for all the [contributions](https://github.com/sharu725/online-cv/commits?author=t-h-e).
 
-```
-npm install
-```
+Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com).
 
-Run the build script to generate updated front-end assets:
+## License
 
-```
-npm run build
-```
-
-Watch for changes and automatically rebuild assets (`CTRL+C` to stop):
-```
-npm run watch
-```
+This project is licensed under the [MIT license](LICENSE.txt).
