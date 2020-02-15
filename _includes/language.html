@@ -1,16 +1,16 @@
-{% assign languages = site.data.data.sidebar.languages %}
-{% if languages %}
+{% assign certifications = site.data.data.sidebar.certifications %}
+{% if certifications %}
 <div class="languages-container container-block">
 
   <h2 class="container-block-title">
-    Languages
+    Certifications
   </h2>
 
   <ul class="list-unstyled interests-list">
-    {%for language in languages %}
+    {%for certification in certifications %}
     <li>
-      {{ language.idiom }}
-      <span class="lang-desc">({{ language.level }})</span>
+      {{ certification.idiom }}
+      <span class="lang-desc">({{ certification.level }})</span>
     </li>
     {% endfor %}
   </ul>
