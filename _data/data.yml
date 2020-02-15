@@ -54,8 +54,12 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: 정보보호학과(Information Security)
-      university: 수원대학교(University of Suwon)
+    - degree: 
+        정보보호학과
+        (Information Security)
+      university: 
+        수원대학교
+        (University of Suwon)
       time: 2014 - 2020
       details: |
         입학 후 프로그래밍 언어를 기초로 하여 컴퓨터 및 네트워크 보안지식 등을 배웠다.
@@ -73,13 +77,13 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: MFE
-        link: "#hook"
-        tagline: "콘서트 예매 사이트"
-
-      - title: Meet Me!
+      - title: MFE.jpg
         link: "#"
-        tagline: "마이홈을 기반으로 한 취미 공유 및 이벤트 참석 사이트"
+        tagline: "MFE(Music For Everyone) : 콘서트 예매 사이트"
+
+      - title: Meet_Me.jpg
+        link: "#"
+        tagline: "Meet Me! : 마이홈을 기반으로 한 취미 공유 및 이벤트 참석 사이트"
 
 skills:
     title: Skills &amp; Proficiency
