@@ -77,11 +77,11 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: MFE.jpg
+      - title: mfe.png
         link: "#"
         tagline: "MFE(Music For Everyone) : 콘서트 예매 사이트"
 
-      - title: Meet_Me.jpg
+      - title: meetme.png
         link: "#"
         tagline: "Meet Me! : 마이홈을 기반으로 한 취미 공유 및 이벤트 참석 사이트"
 
