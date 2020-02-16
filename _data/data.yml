@@ -77,13 +77,15 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: mfe.png
+      - title: MFE(Music For Everyone)
+        img : mfe.jpg
         link: "#"
-        tagline: "MFE(Music For Everyone) : 콘서트 예매 사이트"
+        tagline: "콘서트 예매 사이트"
 
-      - title: meetme.png
+      - title: Meet Me!
+        img : meetme.jpg
         link: "#"
-        tagline: "Meet Me! : 마이홈을 기반으로 한 취미 공유 및 이벤트 참석 사이트"
+        tagline: "마이홈을 기반으로 한 취미 공유 및 이벤트 참석 사이트"
 
 skills:
     title: Skills &amp; Proficiency
