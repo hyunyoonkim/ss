@@ -75,12 +75,12 @@ projects:
     assignments:
       - title: MFE(Music For Everyone)
         img : mfe.jpg
-        link: "https://github.com/dkaskgkdua/MFE"
+        link: "https://github.com/hyunyoonkim/mfe"
         tagline: "콘서트 예매 사이트"
 
       - title: Meet Me!
         img : meetme.jpg
-        link: "https://github.com/meetmeme/meetme"
+        link: "https://github.com/hyunyoonkim/meetme"
         tagline: "마이홈을 기반으로 한 취미 공유 및 이벤트 참석 사이트"
 
 skills:
