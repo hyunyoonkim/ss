@@ -26,8 +26,7 @@ sidebar:
 
     certifications:
       - idiom: 정보처리기사
-        level: 
-        
+
       - idiom: 토익(TOEIC)
         level: 740
         
@@ -55,10 +54,10 @@ career-profile:
       Second paragraph if required.
 education:
     - degree: 
-        정보보호학과
+        정보보호학과<br>
         (Information Security)
       university: 
-        수원대학교
+        수원대학교<br>
         (University of Suwon)
       time: 2014 - 2020
       details: |
@@ -73,9 +72,6 @@ education:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: MFE(Music For Everyone)
         img : mfe.jpg
