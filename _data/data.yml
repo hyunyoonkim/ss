@@ -55,13 +55,7 @@ education:
         (University of Suwon)
       time: 2014 - 2020
       details: |
-        입학 후 프로그래밍 언어를 기초로 하여 컴퓨터 및 네트워크 보안지식 등을 배웠다.
-          - C/C++/JAVA
-          - 웹 프로그래밍(HTML/CSS/JS)
-          - 정보검색(Python, Machine Learning)
-          - 저작권보호와 관리
-          - 무선 네트워크/컴퓨터 네트워크
-          - 현대암호 응용/암호수학
+       
           
 projects:
     title: Projects
@@ -81,26 +75,9 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: C
-        level: 90%
+      - name: 
+        level: 
         
-      - name: C++
-        level: 90%  
-      
-      - name: JAVA
-        level: 95%
-
-      - name: Javascript & jQuery
-        level: 95%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Python
-        level: 80%
-
-      - name: test
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
